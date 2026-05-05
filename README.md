@@ -1,4 +1,4 @@
-# 📺 我的电视，TVBOX,影视仓 / TVBox Configuration
+# 📺 我的电视，FongMi TV,TVBOX,影视仓 / TVBox Configuration,推荐使用 [FongMi TV](https://github.com/FongMi/Release)
 
 > 个人影视仓 / TVBox 配置文件，基于 [饭太硬](https://github.com/qist/tvbox) 大神配置修改。  
 > Personal TVBox configuration, based on [qist/tvbox](https://github.com/qist/tvbox).
