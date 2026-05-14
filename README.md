@@ -90,7 +90,7 @@ https://tvbox-public.gaoops.top/
 
 ## 🙏 致谢 / Credits
 
-- 感谢 [饭太硬](https://github.com/qist/tvbox) 提供的原始配置和 spider 文件
+- 感谢 [饭太硬](https://github.com/qist/tvbox) 提供的配置
 - Thanks to [qist/tvbox](https://github.com/qist/tvbox) for the original configuration and spider file
 
 ---
