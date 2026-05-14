@@ -24,6 +24,7 @@ This repository contains a personal TVBox / 影视仓 configuration with aggrega
 2. 找到「配置」或「设置」入口
 3. 填入以下配置地址：
 
+CF加速
 ```
 https://tvbox-public.gaoops.top/
 ```
@@ -36,6 +37,7 @@ https://tvbox-public.gaoops.top/
 2. Navigate to "Config" or "Settings"
 3. Enter the following configuration URL:
 
+CF CDN
 ```
 https://tvbox-public.gaoops.top/
 ```
